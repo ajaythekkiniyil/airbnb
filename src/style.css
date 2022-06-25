@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav{
+    padding: 5px;
+    -webkit-box-shadow: 0px 4px 9px -5px rgba(0,0,0,0.61);
+    -moz-box-shadow: 0px 4px 9px -5px rgba(0,0,0,0.61);
+    box-shadow: 0px 4px 9px -5px rgba(0,0,0,0.61);
+}
+.girdgallery{
+    width: 100%;
+}
+.airbnb-logo{
+    height: 70px;
+}
+.card-section{
+    padding: 30px;
+}
+.card{
+    border-radius: 12px;
+    width: 15rem;
+    border: none;
+}
+h6.status {
+    position: relative;
+    top: -285px;
+    left:10px;
+    background: rgb(255, 247, 247);
+    max-width: 66px;
+    padding: 2px;
+    border-radius: 4px;
+}
+.card-img-top{
+    border-radius: 12px;
+    height: 300px;
+}
+.card-body{
+    margin: -10px 0;
+    padding: 0;
+    line-height: 6px;
+}
+
+
